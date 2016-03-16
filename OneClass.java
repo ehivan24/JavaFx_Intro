@@ -1,4 +1,4 @@
-
+package JavaFx_Intro;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -79,8 +79,6 @@ public class OneClass extends Application {
 					System.out.println("Username: "+ name + " Password: "+ pass);
 				}
 			}			
-		});
-		
-		
+		});		
 	}
 }
